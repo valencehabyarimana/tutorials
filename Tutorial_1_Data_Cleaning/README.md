@@ -1,15 +1,15 @@
-# 🔬 Tutorial 2: Model Fine-Tuning
+# 🧬 Tutorial 1: Data Extraction & Cleaning
 
-## Adapting ESM-2 for Protein Fitness Prediction
+## Working with ProteinGym DMS Data
 
 ---
 
 **Learning Objectives:**
 
-- Load and use pre-trained protein language models (ESM-2)
-- Generate protein embeddings for downstream tasks
-- Perform zero-shot similarity search
-- Fine-tune models with LoRA (Low-Rank Adaptation)
-- Predict DMS stability scores using adapted models
+- Download and extract datasets from ProteinGym
+- Clean and standardize tabular data with pandas
+- Handle missing values and duplicates
+- Normalize DMS scores for machine learning
+- Visualize dataset characteristics
 
 ---
